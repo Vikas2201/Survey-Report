@@ -19,11 +19,15 @@ Also, we are finding out what are the advantages and disadvantages respondents f
 
 Google Form Link: https://forms.gle/xztCrXPSoMSTbCMr6
 
-# DataSet Obtained By Survey
+# Survey Analysis Report Video
 -----------------------------------------------------------------------------------
 
+https://user-images.githubusercontent.com/76476273/141688532-d367df3f-e8fa-4009-8492-76da09cb7710.mp4
 
-[DataSet.xlsx](https://github.com/Vikas2201/Survey-Report/files/7534059/Online.Study.Good.Or.Bad_.Responses.xlsx)
+# Survey Analysis Report 
+------------------------------------------------------------------
+
+[Survey Report](https://www.canva.com/design/DAEvcNYCwr4/xqXpaa1_zxH1vW1kkjokkA/view?utm_content=DAEvcNYCwr4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 
 # Conclusion 

@@ -14,7 +14,7 @@ Basically, with the help of survey we are finding whether the respondents want t
 
 Also, we are finding out what are the advantages and disadvantages respondents faced while having distance learning/teachings and whether it affected them or not. And what measures should be taken to improve this type of learning if the conditions not get well.
 
-# Survay Link 
+# Survey Link 
 -----------------------------------------------------------------------------------------
 
 Google Form Link: https://forms.gle/xztCrXPSoMSTbCMr6

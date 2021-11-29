@@ -48,5 +48,6 @@ These findings offer some early indications to policymakers and educational lead
 # Author
 ----------------------------------------
 
-[@Harsh Dahiya](https://github.com/webdesignerforall)
-[@Vikas](https://github.com/Vikas2201)
+  * [@Harsh Dahiya](https://github.com/webdesignerforall)
+ 
+  * [@Vikas](https://github.com/Vikas2201)

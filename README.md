@@ -45,7 +45,7 @@ Respondents feel that support in terms of more educational resources would help 
 
 These findings offer some early indications to policymakers and educational leaders that the experience of distance/online teaching and learning, although challenging, may have lasting positive effects, opening up interesting possibilities for innovation and new ways of working, especially if supported by appropriate and timely professional development.
 
-# Author 
----------------------------------------------
+# Author
+----------------------------------------
 
-Vikas2201
+@webdesignerforall

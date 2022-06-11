@@ -52,4 +52,5 @@ These findings offer some early indications to policymakers and educational lead
   * [@Vikas](https://github.com/Vikas2201)
   * [@Aditya](https://github.com/Aditya-Gahlot)
   * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
+  * [@Chirag Lakra](https://github.com/chiraglakra)
  
